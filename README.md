@@ -1,5 +1,6 @@
 ### ![github_backdrop](https://user-images.githubusercontent.com/66753486/174352369-f2900025-7d38-4059-ae37-1e1fda729ec0.png)
 
+<p align="center">2024 Princeton Financial Engineering Student, Experienced Software Developer, and Finance Enthusiast<p>
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=|&message=PYTHON&color=cc2c11&style=plastic&logo=python"/>
