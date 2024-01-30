@@ -14,8 +14,9 @@
   <img src="https://img.shields.io/static/v1?label=|&message=RUBY&color=941305&style=plastic&logo=ruby"/>
   <img src="https://img.shields.io/static/v1?label=|&message=R&color=941305&style=plastic&logo=r"/>
   <img src="https://img.shields.io/static/v1?label=|&message=C&color=941305&style=plastic&logo=c"/>
+  <img src="https://img.shields.io/static/v1?label=|&message=GO&color=941305&style=plastic&logo=go"/>
 
-
+  <img src="https://img.shields.io/static/v1?label=|&message=REACT&color=3c7f5d&style=plastic&logo=react"/>
   <img src="https://img.shields.io/static/v1?label=|&message=HTML&color=3c7f5d&style=plastic&logo=html5"/>
   <img src="https://img.shields.io/static/v1?label=|&message=CSS&color=3c7f5d&style=plastic&logo=css3"/>
   <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
