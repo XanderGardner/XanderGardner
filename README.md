@@ -1,4 +1,5 @@
-### ![github_backdrop](https://user-images.githubusercontent.com/66753486/174352369-f2900025-7d38-4059-ae37-1e1fda729ec0.png)
+### ![github_backdrop](https://github.com/XanderGardner/XanderGardner/assets/66753486/9d79301b-3f23-4e63-b70b-f464f0bd88de)
+
 
 <p align="center">2024 Princeton Financial Engineering Student, Experienced Software Developer, and Finance Enthusiast<p>
 
@@ -32,6 +33,6 @@
 
 - LinkedIn: <a class=cntMethod target="_blank" href="https://www.linkedin.com/in/xandergardner/">Xander Gardner</a>
 
-- Personal Website: <a class=cntMethod target="_blank" href="https://xandergardner.github.io/xander/">https://xandergardner.github.io/xander/</a>
+- Personal Website: <a class=cntMethod target="_blank" href="https://xandergardner.github.io">https://xandergardner.github.io</a>
 
 - Instagram: <a class=cntMethod target="_blank" href="https://www.instagram.com/xander.gardner/">@xander.gardner</a>
